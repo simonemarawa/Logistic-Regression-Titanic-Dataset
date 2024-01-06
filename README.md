@@ -1,3 +1,3 @@
 # Logistic-Regression-Titanic-Dataset
-This project employs Logistic Regression on the Titanic Dataset, integrating K-Cross Validation (K=2 to 5) and exploring ridge regression penalties blah blah
+This project focuses on applying Logistic Regression to the Titanic Dataset, utilizing K-Cross Validation with K values ranging from 2 to 5. Additionally, different cases and penalties of ridge regression will be explored. The primary objective is to assess the impact on classification accuracy while working with the Titanic dataset. 
 
